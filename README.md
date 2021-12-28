@@ -26,7 +26,7 @@ This repository contains all of the 3D models and files.
 
 ## Source
 
-1.[Holder-3D Model - STL file](ac-remote-holder-case-3dmodel/source/3d-files/CE3_ac-remote-case.gcode
+1.[Holder-3D Model - STL file](https://github.com/JathujanMahendran/ac-remote-holder-case-3dmodel/blob/main/source/3d-files/ac-remote-case-stl.stl)
 )
 
-2.[Holder-3D Model - Gcode file](ac-remote-holder-case-3dmodel/source/3d-files/ac-remote-case-stl.stl)
+2.[Holder-3D Model - Gcode file](https://github.com/JathujanMahendran/ac-remote-holder-case-3dmodel/blob/main/source/3d-files/CE3_ac-remote-case.gcode)
