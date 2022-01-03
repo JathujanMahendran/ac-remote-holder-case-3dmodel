@@ -8,12 +8,12 @@ This repository contains all of the 3D models and files.
 
 <img src="source/images/remote.jpg" height="400px" weidth="400px" >
 
-## Authors
+## Author
 
 - [Jathujan Mahendran](https://www.linkedin.com/in/jathujanmahendran/)-Community Innovator at DreamSpace Academy
 
 
-## Acknowledgements
+## Acknowledgement
 
  - [Jerushan Sritharan](https://www.linkedin.com/in/jerushan-sritharan-9017011b4) -   Guardian of Electronics Lab, DreamSpace Academy
 
